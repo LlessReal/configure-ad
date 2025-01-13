@@ -1,10 +1,10 @@
-# Brief Description
-In this project, the main steps involve creating resources and ensuring connectivity between the client and Domain Controller. Active Directory installation is performed, followed by the creation of admin and normal user accounts in AD. Client-1 is joined to the domain "myadproject.com," and Remote Desktop is set up for non-administrative users. Finally, additional users are created, and an attempt is made to log into Client-1 using one of these users.
-<br> Another related project - https://github.com/LlessReal/azure-network-protocols
-
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" height="40%" width="70%"alt="Microsoft Active Directory Logo"/>
 </p>
+
+# Brief Projectt Description
+In this project, the main steps involve creating resources and ensuring connectivity between the client and Domain Controller. Active Directory installation is performed, followed by the creation of admin and normal user accounts in AD. Client-1 is joined to the domain "myadproject.com," and Remote Desktop is set up for non-administrative users. Finally, additional users are created, and an attempt is made to log into Client-1 using one of these users.
+<br> Another related project - https://github.com/LlessReal/azure-network-protocols
 
 <h1>Configuring Active Directory (On-Premises) Within Azure</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
